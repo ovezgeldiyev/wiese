@@ -1,0 +1,13 @@
+<svg id="X-Button" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="47" height="47" viewBox="0 0 47 47">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_85" data-name="Rectangle 85" width="47" height="47" transform="translate(0 0)" fill="#224b64"/>
+    </clipPath>
+  </defs>
+  <g id="Group_22" data-name="Group 22" clip-path="url(#clip-path)">
+    <path id="Path_210" data-name="Path 210" d="M41.893,52.433a23.5,23.5,0,0,1-29.873.007L26.96,37.5Z" transform="translate(-3.46 -10.795)" fill="#224b64"/>
+    <path id="Path_211" data-name="Path 211" d="M20.274,26.939,5.341,41.879A23.513,23.513,0,0,1,5.355,12.02Z" transform="translate(0 -3.46)" fill="#224b64"/>
+    <path id="Path_212" data-name="Path 212" d="M41.878,5.334,26.972,20.246,12.061,5.327a23.514,23.514,0,0,1,29.817.007" transform="translate(-3.472 0)" fill="#224b64"/>
+    <path id="Path_213" data-name="Path 213" d="M57.8,26.963a23.4,23.4,0,0,1-5.341,14.919L37.53,26.942,52.442,12.03A23.349,23.349,0,0,1,57.8,26.963" transform="translate(-10.804 -3.463)" fill="#224b64"/>
+  </g>
+</svg>

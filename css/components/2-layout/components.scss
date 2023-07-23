@@ -1,0 +1,70 @@
+h1, h2 {
+    font-weight: 600;
+    font-size: 43px;
+    line-height: 47px;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+    letter-spacing: .007em;
+}
+
+h3 {
+    font-size: 34px;
+    line-height: 46px;
+    font-weight: 600;
+    letter-spacing: .07em;
+    color: $main2;
+    text-transform: uppercase;
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+h6 {
+    font-size: 22px;
+    line-height: 31px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+p {
+    &.ex {
+        font-size: 20px;
+        line-height: 31px;
+    }
+}
+.main {
+    overflow: hidden;
+    padding-top: 139px;
+}
+.button {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    color: $main;
+    font-family: $mainFont;
+    font-size: 22px;
+    line-height: 31px;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-align: start;
+    b {
+        font-weight: 400;
+    }
+    span {
+        width: 47px;
+        height: 47px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: 20px;
+        svg {
+            width: 100%;
+            height: 100%;
+            color: $main;
+        }
+    }
+}
